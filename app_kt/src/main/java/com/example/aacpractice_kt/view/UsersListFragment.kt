@@ -36,6 +36,8 @@ class UsersListFragment : MvvmFragment() {
                     Log.w("ddddddd", it)
                 })
         )
+
+        // test
     }
 
     fun showUsers(data: UsersList) {
