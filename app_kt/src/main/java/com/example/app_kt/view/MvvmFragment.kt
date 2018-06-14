@@ -1,4 +1,4 @@
-package com.example.aacpractice_kt.view
+package com.example.app_kt.view
 
 import android.support.v4.app.Fragment
 import io.reactivex.disposables.CompositeDisposable

@@ -1,4 +1,4 @@
-package com.example.aacpractice_kt
+package com.example.app_kt
 
 import org.junit.Test
 

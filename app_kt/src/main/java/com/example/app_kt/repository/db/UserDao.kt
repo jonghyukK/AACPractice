@@ -1,10 +1,10 @@
-package com.example.aacpractice_kt.repository.db
+package com.example.app_kt.repository.db
 
 import android.arch.persistence.room.Dao
 import android.arch.persistence.room.Insert
 import android.arch.persistence.room.OnConflictStrategy
 import android.arch.persistence.room.Query
-import com.example.aacpractice_kt.repository.data.User
+import com.example.app_kt.repository.data.User
 import io.reactivex.Single
 
 @Dao

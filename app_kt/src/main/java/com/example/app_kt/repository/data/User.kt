@@ -1,4 +1,4 @@
-package com.example.aacpractice_kt.repository.data
+package com.example.app_kt.repository.data
 
 import android.arch.persistence.room.ColumnInfo
 import android.arch.persistence.room.Entity

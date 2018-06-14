@@ -1,8 +1,8 @@
-package com.example.aacpractice_kt
+package com.example.app_kt
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
-import com.example.aacpractice_kt.view.UsersListFragment
+import com.example.app_kt.view.UsersListFragment
 
 class MainActivity : AppCompatActivity() {
 

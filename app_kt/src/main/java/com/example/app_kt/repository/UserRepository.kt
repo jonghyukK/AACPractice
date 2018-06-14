@@ -1,9 +1,9 @@
-package com.example.aacpractice_kt.repository
+package com.example.app_kt.repository
 
 import android.util.Log
-import com.example.aacpractice_kt.repository.api.UserApi
-import com.example.aacpractice_kt.repository.data.User
-import com.example.aacpractice_kt.repository.db.UserDao
+import com.example.app_kt.repository.api.UserApi
+import com.example.app_kt.repository.data.User
+import com.example.app_kt.repository.db.UserDao
 import io.reactivex.Observable
 import io.reactivex.schedulers.Schedulers
 

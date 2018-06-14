@@ -1,9 +1,9 @@
-package com.example.aacpractice_kt.viewmodel
+package com.example.app_kt.viewmodel
 
 import android.util.Log
 import io.reactivex.Observable
-import com.example.aacpractice_kt.repository.UserRepository
-import com.example.aacpractice_kt.viewmodel.data.UsersList
+import com.example.app_kt.repository.UserRepository
+import com.example.app_kt.viewmodel.data.UsersList
 import java.util.*
 import java.util.concurrent.TimeUnit
 

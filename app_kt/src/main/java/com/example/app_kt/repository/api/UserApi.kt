@@ -1,6 +1,6 @@
-package com.example.aacpractice_kt.repository.api
+package com.example.app_kt.repository.api
 
-import com.example.aacpractice_kt.repository.data.User
+import com.example.app_kt.repository.data.User
 import io.reactivex.Observable
 import retrofit2.http.GET
 
